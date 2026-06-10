@@ -106,13 +106,12 @@ sudo rm /usr/local/bin/easycrack
 
 ---
 
-> **⚠️ DISCLAIMER: This tool is for EDUCATIONAL PURPOSES ONLY.**
+> **⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY — USE AT YOUR OWN RISK.**
 >
-> Easycrack is designed to help security professionals, researchers, and students understand how WiFi security works and how WPA handshake capture/cracking operates.
+> This tool is for educational purposes to help understand WiFi security. By using this tool, you agree that:
+> - You will only use it on networks you own or have explicit permission to test
+> - The developer(s) of Easycrack and AdhiHub are NOT responsible for any misuse, damage, or legal issues caused by this tool
+> - You use this tool AT YOUR OWN RISK
+> - Unauthorized access to networks is illegal in most jurisdictions
 >
-> **Do NOT use this tool on:**
-> - Networks you do not own or have explicit written permission to test
-> - Networks belonging to others (this is illegal in most jurisdictions)
-> - Any network where you do not have authorized access
->
-> **Unauthorized access to computer networks is a crime.** The developers of Easycrack and AdhiHub assume no liability and are not responsible for any misuse or damage caused by this tool. Use responsibly and only on your own equipment or networks you have permission to test.
+> **The developer(s) assume NO liability for any actions or consequences resulting from the use of this tool. If you do not agree, do not use it.**

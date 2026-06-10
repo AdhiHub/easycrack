@@ -14,4 +14,5 @@ More tools coming soon!
 
 ---
 
-> **⚠️ DISCLAIMER:** All tools in AdhiHub are for **EDUCATIONAL PURPOSES ONLY**. Unauthorized access to networks or systems is illegal. Use only on devices and networks you own or have explicit permission to test. The developers assume no liability for misuse.
+> **⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY — USE AT YOUR OWN RISK.**
+> All tools in AdhiHub are for educational purposes. By using any tool, you agree the developer(s) assume **NO liability** for any misuse, damage, or legal consequences. Unauthorized access to networks/systems is illegal. Use at your own risk.
